@@ -8,7 +8,7 @@
 import Foundation
 
 struct Router {
-    static let apiKey = "45096ec768c69e25b8ddd46ebbc19759"
+    static let apiKey = ""
     static let baseURL: String = ""
     
     static func getSearchUrl(text: String, perPage: String, page: Int?) -> String {

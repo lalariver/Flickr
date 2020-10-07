@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B674F74E-1047-42CB-AA1D-CA615F666A60"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B3F7A32B-FA9A-4EDF-B394-DCD34263C19A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flickr/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B3F7A32B-FA9A-4EDF-B394-DCD34263C19A - 5087167a58ac5d24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flickr.ResultViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Flickr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lawliet/Xcode/Flickr/Flickr/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  uuid = "B3F7A32B-FA9A-4EDF-B394-DCD34263C19A - 23b85b8265332bea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Flickr.ResultJSONModel) -&gt; () in Flickr.ResultViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Flickr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lawliet/Xcode/Flickr/Flickr/ResultViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "327">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1202491C-9021-4E2D-8BF4-F70C314101AD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flickr/SearchViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "searchAction(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1202491C-9021-4E2D-8BF4-F70C314101AD - 110fe50a066b49d6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Flickr.SearchViewController.searchAction(Any) -&gt; ()"
+                  moduleName = "Flickr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lawliet/Xcode/Flickr/Flickr/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "1705">
+               </Location>
+               <Location
+                  uuid = "1202491C-9021-4E2D-8BF4-F70C314101AD - ddb6bc1d6d9cefa6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.NSCoder) -&gt; Swift.Optional&lt;Flickr.ResultViewController&gt; in Flickr.SearchViewController.searchAction(Any) -&gt; ()"
+                  moduleName = "Flickr"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lawliet/Xcode/Flickr/Flickr/SearchViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "269A9A70-4E03-41BF-87F5-65AF4FBDFFCD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Flickr/ResultViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
